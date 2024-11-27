@@ -1,9 +1,3 @@
----
-layout: default
-title: Home
----
+# Welcome to My GitHub Page
 
-# Welcome to Mangat Rai Site
-
-This is the sample for the site hosted on GitHub Pages!
-
+This is a simple GitHub Pages site!
